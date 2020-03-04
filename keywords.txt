@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For SEG
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SEG 	KEYWORD1	
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+_0   KEYWORD2
+_1   KEYWORD2
+_2   KEYWORD2
+_3   KEYWORD2
+_4   KEYWORD2
+_5   KEYWORD2
+_6   KEYWORD2
+_7   KEYWORD2
+_8   KEYWORD2
+_9   KEYWORD2
+_A   KEYWORD2
+_B   KEYWORD2
+_C   KEYWORD2
+_D   KEYWORD2
+_E   KEYWORD2
+_F   KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
